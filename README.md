@@ -2,4 +2,4 @@
 
 > I make things to break things
 
-Amateur malware analyst [@MalPhobic](https://github.com/MalPhobic). I write questionable content on my [blog](https://cerbersec.com). Follow me on [Twitter](https://twitter.com/cerbersec).
+Red Team [@NVISO](https://www.nviso.eu/). Amateur malware analyst [@MalPhobic](https://github.com/MalPhobic). I write questionable content on my [blog](https://cerbersec.com). Follow me on [Twitter](https://twitter.com/cerbersec).
